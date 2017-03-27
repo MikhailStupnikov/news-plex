@@ -1,0 +1,21 @@
+{
+  "name": "news-plex",
+  "authors": [
+    "Mikhail Stupnikov <stupn-mikhail@yandex.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0",
+    "jquery": "1.12.4"
+  }
+}

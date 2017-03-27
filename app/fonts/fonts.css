@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'ArialRegular';
+	src: url('ArialRegular.eot');
+	src: url('ArialRegular.woff2') format('woff2'),
+		 url('ArialRegular.woff') format('woff'),
+		 url('ArialRegular.ttf') format('truetype'),
+		 url('ArialRegular.svg#ArialRegular') format('svg'),
+		 url('ArialRegular.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ArialBold';
+	src: url('ArialBold.eot');
+	src: url('ArialBold.woff2') format('woff2'),
+		 url('ArialBold.woff') format('woff'),
+		 url('ArialBold.ttf') format('truetype'),
+		 url('ArialBold.svg#ArialBold') format('svg'),
+		 url('ArialBold.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Bebas';
+	src: url('Bebas.eot');
+	src: url('Bebas.woff2') format('woff2'),
+		 url('Bebas.woff') format('woff'),
+		 url('Bebas.ttf') format('truetype'),
+		 url('Bebas.svg#Bebas') format('svg'),
+		 url('Bebas.eot?#iefix') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
+}
